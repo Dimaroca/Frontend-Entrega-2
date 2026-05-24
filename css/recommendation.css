@@ -42,12 +42,9 @@ main{
 }
 
 .slider{
-    width:100%;
     display:flex;
     gap:20px;
     overflow:hidden;
-    scroll-behavior:smooth;
-    padding:10px 50px;
 }
 
 .restaurant-card{
